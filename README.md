@@ -8,8 +8,8 @@ About me 👨‍💻
       public static void main(String[] args) {
       
         final String ME = "Thiago Velázquez 🙋‍♂️";
-        final String[] LANGUAGES = {"Java", "C++", "Javascript", "Python", "SQL", "HTML", "CSS"};
-        final String[] FRAMEWORKS = {"Springboot"};
+        final String[] LANGUAGES = {"Java", "Javascript", "HTML", "CSS", "Python", "SQL", };
+        final String[] FRAMEWORKS = {"Spring Framework"};
         final String[] INTERESTS = {"Gaming 🎮", "Coding 💻", "Reading 📖", "Football ⚽", "Swimming 🌊"};
         final String CONTACT = "www.linkedin.com/in/osmar-thiago-velázquez-núñez";
       }
