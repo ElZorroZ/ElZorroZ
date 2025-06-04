@@ -9,7 +9,7 @@ About me 👨‍💻
       
         final String ME = "Thiago Velázquez 🙋‍♂️";
         final String[] LANGUAGES = {"Java", "Javascript", "HTML", "CSS", "Python", "SQL", };
-        final String[] FRAMEWORKS = {"Java Spring Framework"};
+        final String[] FRAMEWORKS = {"Java Spring Boot"};
         final String[] INTERESTS = {"Gaming 🎮", "Coding 💻", "Reading 📖", "Football ⚽", "Swimming 🌊"};
         final String CONTACT = "www.linkedin.com/in/osmar-thiago-velázquez-núñez";
       }
