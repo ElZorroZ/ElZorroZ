@@ -94,14 +94,14 @@ Actualmente me dedico al desarrollo de aplicaciones web, trabajando con tecnolog
 
 <div align="center">
 
-<a href="https://github.com/ElZorroZ/Club-Deportivo">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ElZorroZ&repo=Club-Deportivo&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ElZorroZ/ProyectoNothingEverHappend">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ElZorroZ&repo=ProyectoNothingEverHappend&theme=tokyonight&hide_border=true" />
-</a>
+**Club Deportivo**  
+[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-Club--Deportivo-blue?style=for-the-badge&logo=github)](https://github.com/ElZorroZ/Club-Deportivo)
+
+**Nothing Ever Happened**  
+[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-Nothing--Ever--Happened-purple?style=for-the-badge&logo=github)](https://github.com/ElZorroZ/ProyectoNothingEverHappend)
 
 </div>
+
 
 ### 🏢 Proyectos en Organizaciones
 
