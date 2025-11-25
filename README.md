@@ -93,7 +93,6 @@ Actualmente me dedico al desarrollo de aplicaciones web, trabajando con tecnolog
 
 <div align="center">
 
-### 📈 Mis Repositorios
 ![Total de Repositorios](https://img.shields.io/badge/Repositorios%20Totales-18-blue?style=for-the-badge)
 ![Repositorios Públicos](https://img.shields.io/badge/Repositorios%20Públicos-10-green?style=for-the-badge)
 
