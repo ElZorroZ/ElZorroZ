@@ -21,7 +21,8 @@ Soy un desarrollador enfocado en crear soluciones tecnológicas eficientes y esc
 ### 💼 A Qué Me Dedico
 
 Actualmente me dedico al desarrollo de aplicaciones web, trabajando con tecnologías modernas para crear soluciones escalables y eficientes. Me especializo en Backend y Fullstack, y también desarrollo proyectos propios para mi portafolio, donde experimento, aprendo y pongo a prueba nuevas ideas. Siempre busco mejorar mis habilidades y seguir creciendo como desarrollador.
-🛠️ Tecnologías y Herramientas
+
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
@@ -50,11 +51,11 @@ Actualmente me dedico al desarrollo de aplicaciones web, trabajando con tecnolog
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ElZorroZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ElZorroZ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ElZorroZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ElZorroZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=ElZorroZ&theme=tokyonight&hide_border=true)
 
@@ -70,8 +71,12 @@ Actualmente me dedico al desarrollo de aplicaciones web, trabajando con tecnolog
 
 <div align="center">
 
-[![Club Deportivo](https://github-readme-stats.vercel.app/api/pin/?username=ElZorroZ&repo=Club-Deportivo&theme=tokyonight&hide_border=true)](https://github.com/ElZorroZ/Club-Deportivo)
-[![Nothing Ever Happened](https://github-readme-stats.vercel.app/api/pin/?username=ElZorroZ&repo=ProyectoNothingEverHappend&theme=tokyonight&hide_border=true)](https://github.com/ElZorroZ/ProyectoNothingEverHappend)
+<a href="https://github.com/ElZorroZ/Club-Deportivo">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ElZorroZ&repo=Club-Deportivo&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ElZorroZ/ProyectoNothingEverHappend">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ElZorroZ&repo=ProyectoNothingEverHappend&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
