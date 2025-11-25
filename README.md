@@ -7,6 +7,22 @@
 </p>
 <hr/>
 
+<div align="center">
+
+![Visitantes del Perfil](https://komarev.com/ghpvc/?username=ElZorroZ&color=blueviolet&style=for-the-badge)
+
+</div>
+
+## 📫 Conecta Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osmar-thiago-velázquez-núñez)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago88_35@hotmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/698401421825146901)
+
+</div>
+
 ### 🚀 Sobre Mí
 
 Soy un desarrollador enfocado en crear soluciones tecnológicas eficientes y escalables. Disfruto resolver problemas complejos, aprender nuevas herramientas y llevar proyectos desde la idea hasta la implementación. Me motiva la mejora continua y construir software que realmente aporte valor.
@@ -101,21 +117,9 @@ Actualmente me dedico al desarrollo de aplicaciones web, trabajando con tecnolog
 
 > 💡 **Nota**: Para ver los repositorios específicos de las organizaciones, puedes acceder directamente a los enlaces de las organizaciones donde colaboro.
 
-## 📫 Conecta Conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osmar-thiago-velázquez-núñez)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago88_35@hotmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/698401421825146901)
-
-</div>
-
 ---
 
 <div align="center">
-
-![Visitantes del Perfil](https://komarev.com/ghpvc/?username=ElZorroZ&color=blueviolet&style=for-the-badge)
 
 ### ⭐️ From [ElZorroZ](https://github.com/ElZorroZ)
 
