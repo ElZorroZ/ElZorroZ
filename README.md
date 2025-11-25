@@ -1,7 +1,6 @@
 ### 👋 ¡Hola! Soy Thiago Velázquez
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desarrollador+Backend+ FullStack;Apasionado+por+la+Programación;Siempre+Aprendiendo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+%2B+FullStack;Apasionado+por+la+Programación;Siempre+Aprendiendo+🚀" alt="Typing SVG" />
 </div>
 
 ### 🚀 Sobre Mí
@@ -12,11 +11,10 @@ Soy un desarrollador enfocado en crear soluciones tecnológicas eficientes y esc
 
 - 🎯 **Desarrollo de Software**: Crear aplicaciones que resuelvan problemas reales
 - 🌐 **Tecnologías Web**: Construir experiencias de usuario excepcionales
-- 🤖 **Inteligencia Artificial**: Explorando el futuro de la tecnología
 - 📚 **Aprendizaje Continuo**: Siempre buscando nuevos conocimientos
 - 🎮 **Gaming**: Los videojuegos son parte de mi día a día
-- ⚽ Fútbol: Amo el fútbol, seguir a mi club y disfrutarlo con amigos
-- 📖 Lectura: Me gusta leer para aprender, relajarme y encontrar nuevas ideas
+- ⚽ **Fútbol**: Amo el fútbol, seguir a mi club y disfrutarlo con amigos
+- 📖 **Lectura**: Me gusta leer para aprender, relajarme y encontrar nuevas ideas
 
 ### 💼 A Qué Me Dedico
 
@@ -46,6 +44,11 @@ Actualmente me dedico al desarrollo de aplicaciones web, trabajando con tecnolog
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
