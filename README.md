@@ -1,7 +1,8 @@
-### 👋 ¡Hola! Soy Thiago Velázquez
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+%2B+FullStack;Apasionado+por+la+Programación;Siempre+Aprendiendo+🚀" alt="Typing SVG" />
-</div>
+<h1 align="center">Hola, soy Thiago Velázquez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
 
 ### 🚀 Sobre Mí
 
