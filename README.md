@@ -46,10 +46,10 @@ Actualmente me dedico al desarrollo de aplicaciones web, trabajando con tecnolog
 ### Herramientas y Plataformas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -92,10 +92,10 @@ Actualmente me dedico al desarrollo de aplicaciones web, trabajando con tecnolog
 <div align="center">
 
 **Polo IT - Mercado Oficio**  
-[![Ver Organización](https://img.shields.io/badge/Ver%20Proyectos-Proyecto--IT-blue?style=for-the-badge&logo=github)](https://github.com/orgs/Proyecto-IT/repositories)
+[![Ver Organización](https://img.shields.io/badge/Ver%20Proyecto-Proyecto--IT-blue?style=for-the-badge&logo=github)](https://github.com/orgs/Proyecto-IT/repositories)
 
 **Thompson Team - Ronin Trust Score**  
-[![Ver Organización](https://img.shields.io/badge/Ver%20Proyectos-Thompson--Team-green?style=for-the-badge&logo=github)](https://github.com/orgs/Thompson-Team/repositories)
+[![Ver Organización](https://img.shields.io/badge/Ver%20Proyecto-Thompson--Team-green?style=for-the-badge&logo=github)](https://github.com/orgs/Thompson-Team/repositories)
 
 </div>
 
